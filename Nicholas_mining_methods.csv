@@ -1,0 +1,11 @@
+﻿Methods,S_Massive,S_Tabular,S_Inclined,T_Narrow,T_Intermediate,T_Thick,T_Very_thick,P_Flat,P_Intermediate,P_Steep,GD_Uniform,GD_Gradational,GD_Erratic,O_RSS_Weak,O_RSS_Moderate,O_RSS_Strong,O_FF_Very_close,O_FF_Close,O_FF_Wide,O_FF_Very_wide,O_FSS_Weak,O_FSS_Moderate,O_FSS_Strong,HW_RSS_Weak,HW_RSS_Moderate,HW_RSS_Strong,HW_FF_Very_close,HW_FF_Close,HW_FF_Wide,HW_FF_Very_wide,HW_FSS_Weak,HW_FSS_Moderate,HW_FSS_Strong,FW_RSS_Weak,FW_RSS_Moderate,FW_RSS_Strong,FW_FF_Very_close,FW_FF_Close,FW_FF_Wide,FW_FF_Very_wide,FW_FSS_Weak,FW_FSS_Moderate,FW_FSS_Strong
+Open-pit mining,3,2,3,2,3,4,4,3,3,4,3,3,3,3,4,4,2,3,4,4,2,3,4,3,4,4,2,3,4,4,2,3,4,3,4,4,2,3,4,4,2,3,4
+Block caving,4,2,0,-49,0,2,4,3,2,4,4,2,0,4,1,1,4,4,3,0,4,3,0,4,2,1,3,4,3,0,4,2,0,2,3,3,1,3,3,3,1,3,3
+Sublevel stoping,2,2,1,1,2,4,3,2,1,4,3,3,1,-49,3,4,0,0,1,4,0,2,4,-49,3,4,-49,0,1,4,0,2,4,0,2,4,0,0,2,4,0,1,4
+Sublevel caving,3,4,1,-49,0,4,4,1,1,4,4,2,0,0,3,3,0,2,4,4,0,2,2,3,2,1,3,4,3,1,4,2,0,0,2,4,0,1,3,4,0,2,4
+Longwall mining,-49,4,-49,4,0,-49,-49,4,0,-49,4,2,0,4,1,0,4,4,0,0,4,3,0,4,2,0,4,4,3,0,4,2,0,2,3,3,1,2,4,3,1,3,3
+Room-and-pillar mining,0,4,2,4,2,-49,-49,4,1,0,3,3,3,0,3,4,0,1,2,4,0,2,4,0,3,4,0,1,2,4,0,2,4,0,2,4,0,1,3,3,0,3,3
+Shrinkage stoping,2,2,1,1,2,4,3,2,1,4,3,2,1,1,3,4,0,1,3,4,0,2,4,4,2,1,4,4,3,0,4,2,0,2,3,3,2,3,3,2,2,2,3
+Cut-and-fill stoping,0,4,2,4,4,0,0,0,3,4,3,3,3,3,2,2,3,3,2,2,3,3,2,3,2,2,3,3,2,2,4,3,2,4,2,2,4,4,2,2,4,4,2
+Top slicing,3,3,0,-49,0,3,4,4,1,2,4,2,0,2,3,3,1,1,2,4,1,2,4,4,2,1,3,3,3,0,4,2,0,2,3,3,1,3,3,3,1,2,3
+Square-set stoping,0,2,4,4,4,1,1,2,3,3,3,3,3,4,1,1,4,4,2,1,4,3,2,3,2,2,3,3,2,2,4,3,2,4,2,2,4,4,2,2,4,4,2
